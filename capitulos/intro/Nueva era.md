@@ -4,7 +4,7 @@ El problema es toda esa gente que no aporta nada y solo aparece por aquí para d
 
 No tardarán en volverse por donde han venido, aquí nadie los soporta.
 
-
+![[new world.png]]
 
 ---
 [[Work Unit completada]]
