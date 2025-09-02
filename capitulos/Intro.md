@@ -10,3 +10,7 @@ La firmeza de aquellas palabras le devolvió el aliento. Recogió el dispositivo
 
 
 ![[old_new.png]]
+
+
+---
+ [[Nueva era]]

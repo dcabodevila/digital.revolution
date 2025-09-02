@@ -1,3 +1,3 @@
-- [[capitulos/intro|Intro]]
-- [[capitulos/capitulo2|Capítulo 2: La era digital]]
-- [[capitulos/capitulo3|Capítulo 3: Conflictos]]
+[[Intro]]
+[[Nueva era]]
+[[Work Unit completada]]

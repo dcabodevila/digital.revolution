@@ -1,0 +1,1 @@
+La revisión fue acorde. Mereció la pena invertir todo este tiempo estos hijos de puta no pagan mal en comparación con los judíos. Con esto tengo para lo que resta de mes y aun estamos a día 8.

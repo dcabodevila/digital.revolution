@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9b786b68050905e7","x":-920,"y":-900,"width":250,"height":60,"color":"2","type":"text","text":"Old world"},
+		{"id":"6dfe1cd64c76bbf5","x":-920,"y":-220,"width":250,"height":60,"color":"5","type":"text","text":"New world"}
+	],
+	"edges":[
+		{"id":"3482eebe85187e4f","fromNode":"9b786b68050905e7","fromSide":"bottom","toNode":"6dfe1cd64c76bbf5","toSide":"top","fromEnd":"arrow"}
+	]
+}
