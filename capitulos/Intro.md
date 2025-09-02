@@ -1,19 +1,12 @@
 
-Primero fue el silencio.  
-Un silencio eléctrico, invisible, que se fue extendiendo entre las rendijas del mundo.  
+>*“La revolución, como Saturno, devora a sus propios hijos.”*
 
-Las calles aún estaban llenas de voces humanas, de pasos arrastrados, de niños jugando en plazas cada vez más vacías. Pero bajo la piel de la ciudad, en la vibración de las pantallas y en el pulso de los cables enterrados, crecía otro territorio.  
+Al principio solo sentíamos que cada vez existía más silencio. En el metro, en la plaza... la gente caminaba deprisa evitando miradas. Siempre hubo esa inercia en las ciudades, pero desde *el anuncio* la quietud se volvió más pesada, como si todos guardaran un secreto.  
 
-Un país sin fronteras, sin polvo ni piedra, levantado sobre algoritmos y promesas. Allí, los nombres se disolvían en cadenas de bloques, las monedas se volvían cifras que nunca descansaban, y la memoria humana quedaba reducida a un eco en los servidores.  
+—¿Y si se van todos y ya nadie quiera vivir aquí?— Preguntaba Ada con inquietud 
+— Nunca escaparán a su naturaleza; seguirán necesitando sentir.
 
-Nadie supo en qué momento dejamos de mirar la realidad como único refugio.  
-Nadie supo en qué instante empezamos a vivir entre dos mundos.  
-
-Solo quedó la certeza de que el futuro había llegado, y que ya no sería posible retroceder.
-
-—¿Qué ocurrirá cuando ya nadie quiera vivir aquí, con nosotros? —preguntaba Ada con inquietud.  
-—Nunca escaparán a su naturaleza; seguirán necesitando sentir.
-
+La firmeza de aquellas palabras le devolvió el aliento. Recogió el dispositivo para la siguiente formación; apenas quedaba tiempo para terminar el café y despedirse. Joan la abrazó, y cada uno siguió su rumbo.
 
 
 ![[old_new.png]]
