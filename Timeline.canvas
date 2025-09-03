@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"ee6232f91b622b4a","type":"text","text":"# 2040\n\nNeuralink estable (rebranding)\n\n\n\n\n\n\n\n\n","x":-935,"y":-220,"width":280,"height":220,"color":"5"},
+		{"id":"1e26c3cf9dc99c2b","type":"text","text":"# 2031\n- Dispositivos cuánticos estables (Google + IBM)\n- AGI\n- Avance exponencial de todas tecnologías digitales\n- Comienzo migración a web3\n- Dispositivos UI VR (Meta)\n\n","x":-935,"y":-1340,"width":290,"height":300,"color":"5"},
+		{"id":"3f3aaf099396c7c5","type":"text","text":"# 2028\n\n- Tesla comienza a vender en BTC.\n- Asesinato de Elon Musk\n- OpenAI mejora ChatGPT a Lumen. \n- Microcomunidades web3\n- BTC to the moon\n\n","x":-940,"y":-1680,"width":300,"height":240,"color":"5"},
+		{"id":"fe6b0e9b86bd440f","type":"text","text":"# 2034\nMacrocomunidades web3\nMultinacionales migran a web3\nIT + entretenimiento a web3\n\n\n\n\n\n\n\n","x":-930,"y":-930,"width":280,"height":220,"color":"5"},
+		{"id":"53f4b23514b5b115","type":"text","text":"# 2031\n\n\n","x":-1465,"y":-1340,"width":250,"height":200,"color":"2"},
+		{"id":"74dde3199da0e131","x":-1465,"y":-1610,"width":250,"height":220,"color":"2","type":"text","text":"# 2030\n- Gran tensión internacional para dominar países con materias primas (Silicio, Cobalto, Níquel, Grafito)\n- Alta inflación\n- Altísimo gravamen a la conversión BTC -> FIAT"},
+		{"id":"96babcb8246d3713","type":"text","text":"# 2038\n- Crisis demográfica occidente\n- Crisis energética\n- Economía de supervivencia del estado.\n- Presión fiscal cercana al 60%\n\n","x":-1500,"y":-450,"width":320,"height":230,"color":"2"},
+		{"id":"da782ad6c15812ee","type":"text","text":"# 2032\n\n\n","x":-1500,"y":-1000,"width":320,"height":230,"color":"2"}
+	],
+	"edges":[
+		{"id":"3574f1dfdfe969d4","fromNode":"3f3aaf099396c7c5","fromSide":"bottom","toNode":"1e26c3cf9dc99c2b","toSide":"top"},
+		{"id":"96c6db02d3fa8c83","fromNode":"1e26c3cf9dc99c2b","fromSide":"bottom","toNode":"fe6b0e9b86bd440f","toSide":"top"},
+		{"id":"7520f30909039bce","fromNode":"74dde3199da0e131","fromSide":"bottom","toNode":"53f4b23514b5b115","toSide":"top"},
+		{"id":"b69b6b24e94c646c","fromNode":"fe6b0e9b86bd440f","fromSide":"bottom","toNode":"ee6232f91b622b4a","toSide":"top"},
+		{"id":"d556c5cd29553b0e","fromNode":"53f4b23514b5b115","fromSide":"bottom","toNode":"da782ad6c15812ee","toSide":"top"},
+		{"id":"046b9d7e62bf1dd4","fromNode":"da782ad6c15812ee","fromSide":"bottom","toNode":"96babcb8246d3713","toSide":"top"}
+	]
+}
