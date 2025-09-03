@@ -7,6 +7,7 @@ Al principio solo sentíamos que cada vez existía más silencio. En el metro, e
 — Nunca escaparán a su naturaleza; seguirán necesitando sentir.
 
 La firmeza de aquellas palabras le devolvió el aliento. Recogió el dispositivo para la siguiente formación; apenas quedaba tiempo para terminar el café y despedirse. Joan la abrazó, y cada uno siguió su rumbo. Se miraron un instante, antes de separarse lo suficiente como para no verse más.
+Finalmente, se dieron la vuelta y se partieron la cara.
 
 
 ![[old_new.png]]
