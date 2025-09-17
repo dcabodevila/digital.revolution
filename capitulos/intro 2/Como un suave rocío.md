@@ -22,4 +22,3 @@ Nadie los eligió.
 Hacía tiempo que esto había dejado de ser una democracia.  
 Y, como se narra en estas páginas, fueron ellos quienes marcaron el rumbo de todo.
 
-![[74207E3A-D575-473E-B031-0518D8AA6473.png]]
