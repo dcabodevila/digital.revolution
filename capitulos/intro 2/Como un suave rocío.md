@@ -18,6 +18,7 @@ Los presidentes ya eran muñecos, y las grandes corporaciones tradicionales deja
 
 El verdadero poder habitaba ya en otra parte: en quienes construían redes neuronales, en quienes diseñaban algoritmos cuánticos, en quienes hablaban un lenguaje nuevo al que la mayoría apenas podía asomarse.
 
-Nadie los eligió.  
+Nadie los eligió.
 Hacía tiempo que esto había dejado de ser una democracia.  
 Y, como se narra en estas páginas, fueron ellos quienes marcaron el rumbo de todo.
+
