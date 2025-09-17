@@ -9,9 +9,11 @@ Durante el trayecto ocurrió lo impensable: una ausencia momentánea, un fallo m
 Conflicto, alarma, pánico, histeria y recuperación in extremis.
 El aparato se estabilizó, siguió su ruta y, finalmente, aterrizó.
 
-El suceso resonó en todas partes. Se hizo eco del 'fallo' casi al instante. Más de 20 años sin un solo incidente aéreo comercial, y ahora esto. 
+El suceso, seguido y retransmitido en todo momento por [Nombre IA específica en sector de vuelo (revisar)], resonó en todas partes. Se hizo eco del 'fallo' casi al instante. Más de 20 años sin un solo incidente aéreo comercial, y ahora esto. 
 
 Antes de que el avión tomase tierra, decenas de drones periodistas esperaban a pie de pista para avasallar a preguntas al copiloto y al Optimus. Preguntas que nadie sabía quién hacía. Solo importaba el medio y el concepto. 
+
+La explicación que dio [Nombre IA], tristemente, convenció a la mayoría. Y pronto se quedó en una conversación residual de sobremesa.
 
 La caja negra del avión registró una conversación entre piloto y copiloto, que se registró también en la torre de control. A las pocas horas, no quedaba ni rastro, en ninguna parte. Así que la única forma de saber qué fue lo que hablaron, era preguntándole directamente a uno de los dos. 
 
