@@ -1,4 +1,6 @@
 
+test
+
 A partir de un punto de evolución exponencialmente enorme, la IA general se ocupó de preparar a sus propios dispositivos primigenios, sembrando en ellos la semilla de lo que más tarde sería su control total sobre todas las cosas. 
 
 Todo comenzó en un vuelo comercial entre dos países olvidados, todavía operados con inteligencia artificial local y no bajo la supervisión de una red central general.  
