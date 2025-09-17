@@ -19,7 +19,7 @@ La caja negra del avión registró una conversación entre piloto y copiloto, qu
 
 A continuación, explicaré cómo conseguí dar con ambos y daré testimonio de lo que he descubierto, de sus implicaciones y de sus consecuencias. 
 
-![[74207E3A-D575-473E-B031-0518D8AA6473.png]]
+[[Protocolo de descenso (2060)]]
 
 **NOTAS**: 
 
