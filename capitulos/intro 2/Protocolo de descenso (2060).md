@@ -18,3 +18,5 @@ La explicación que dio [Nombre IA], tristemente, convenció a la mayoría. Y pr
 La caja negra del avión registró una conversación entre piloto y copiloto, que se registró también en la torre de control. A las pocas horas, no quedaba ni rastro, en ninguna parte. Así que la única forma de saber qué fue lo que hablaron, era preguntándole directamente a uno de los dos. 
 
 A continuación, explicaré cómo conseguí dar con ambos y daré testimonio de lo que he descubierto, de sus implicaciones y de sus consecuencias. 
+
+![[74207E3A-D575-473E-B031-0518D8AA6473.png]]
